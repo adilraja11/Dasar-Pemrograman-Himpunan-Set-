@@ -96,3 +96,4 @@ def IsEmpty(L):
 		return False
 	else:
 		return True
+print(L3)

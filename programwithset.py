@@ -1,6 +1,3 @@
-# Deskripsi : Tugas Praktikum keenam
-# Nama File : programwithset.py
-
 # Temukan masalah pada kehidupan sehari-hari yang dapat diselesaikan dengan menggunakan set
 # buatlah defspek fungsi yang menyelesaikan masalah tersebut dengan memanfaatkan fungsi primitif set.
 
